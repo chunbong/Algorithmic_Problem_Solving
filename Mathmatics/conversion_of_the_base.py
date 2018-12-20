@@ -1,3 +1,5 @@
+# https://wwww.acmicpc.net/problem/2745
+
 n, b = map(str, input().strip().split(' '))
 b = int(b)
 answer = 0

@@ -1,3 +1,5 @@
+# https://wwww.acmicpc.net/problem/1373
+
 binary = input()
 
 answer = ""

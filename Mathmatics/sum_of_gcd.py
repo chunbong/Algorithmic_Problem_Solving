@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/9613
+# https://www.acmicpc.net/problem/9613
 
 from itertools import combinations
 

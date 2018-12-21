@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/2609
+# https://www.acmicpc.net/problem/2609
 
 def gcd(a, b):
     while ( b != 0 ):

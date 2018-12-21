@@ -1,3 +1,5 @@
+# https://wwww.acmicpc.net/problem/11005
+
 n, b = map(int, input().strip().split(' '))
 answer = ""
 

@@ -1,4 +1,4 @@
-#https://www.acmicpc.net/problem/10430
+# https://www.acmicpc.net/problem/10430
 
 def solution(A, B, C):
     print((A+B)%C)

@@ -8,3 +8,4 @@
 * [Backjoon_2진수 8진수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/binary_octal.py)
 * [Backjoon_8진수 2진수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/octal_binary.py)
 * [Backjoon_Base conversion](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/base_conversion.py)
+* [Backjoon_소수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/find_prime_number.py)

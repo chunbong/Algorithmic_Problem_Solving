@@ -9,3 +9,8 @@
 * [Backjoon_8진수 2진수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/octal_binary.py)
 * [Backjoon_Base conversion](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/base_conversion.py)
 * [Backjoon_소수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/find_prime_number.py)
+* [Backjoon_소수 구하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/find_prime_number2.py)
+* [Backjoon_골드바흐의 추측](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/goldbach's_conjecture.py)
+* [Backjoon_소인수분해](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/prime_factorization.py)
+* [Backjoon_팩토리얼](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/factorial.py)
+* [Backjoon_팩토리얼 0의 개수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/number_of_factorial_0.py)

@@ -14,3 +14,6 @@
 * [Backjoon_소인수분해](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/prime_factorization.py)
 * [Backjoon_팩토리얼](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/factorial.py)
 * [Backjoon_팩토리얼 0의 개수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/number_of_factorial_0.py)
+* [Backjoon_좌표 정렬하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_coordinates.py)
+* [Backjoon_좌표 정렬하기2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_coordinates2.py)
+* [Backjoon_나이순 정렬하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_age.py)

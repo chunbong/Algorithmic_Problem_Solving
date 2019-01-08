@@ -17,3 +17,5 @@
 * [Backjoon_좌표 정렬하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_coordinates.py)
 * [Backjoon_좌표 정렬하기2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_coordinates2.py)
 * [Backjoon_나이순 정렬하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_age.py)
+* [Backjoon_국영수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/kor_eng_math.py)
+* [Backjoon_카드](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/card.py)

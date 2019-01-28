@@ -21,3 +21,4 @@
 * [Backjoon_카드](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/card.py)
 
 * [Backjoon_DFS와 BFS](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Graph/dfs_and_bfs.py)
+* [Backjoon_연결 요소의 개수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Graph/number_of_connected_components.py)

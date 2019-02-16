@@ -1,4 +1,7 @@
 # Algorithmic Problem Solving
+
+[Notion](http://bit.ly/chunbong_Algorithm_solution)
+
 ### Mathmatics
 * [Backjoon_나머지](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/division.py)
 * [Backjoon_최대공약수와 최소공배수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathmatics/gcd_lcm.py)
@@ -32,3 +35,4 @@
 * [Backjoon_리모컨](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/remote_control.py)
 * [Backjoon_카잉 달력](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/cain_calendar.py)
 * [Backjoon_수 이어쓰기 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/continuous_writing_number.py)
+* [Backjoon_부등호](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/inequality_sign.py)

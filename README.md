@@ -36,6 +36,7 @@
 * [Backjoon_카잉 달력](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/cain_calendar.py)
 * [Backjoon_수 이어쓰기 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/continuous_writing_number.py)
 * [Backjoon_부등호](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/inequality_sign.py)
+* [Backjoon_일곱 난쟁이](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/seven_dwarfs.py)
 
 ### Dynamic Programming
 * [Backjoon_이동하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/moving_1.py)

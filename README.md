@@ -1,7 +1,5 @@
 # Algorithmic Problem Solving
 
-[Notion](http://bit.ly/chunbong_Algorithm_solution)
-
 ### Mathematics
 * [Backjoon_나머지](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathematics/division.py)
 * [Backjoon_최대공약수와 최소공배수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathematics/gcd_lcm.py)
@@ -38,6 +36,7 @@
 * [Backjoon_부등호](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/inequality_sign.py)
 * [Backjoon_일곱 난쟁이](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/seven_dwarfs.py)
 * [Backjoon_날짜 계산](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/date_calculation.py)
+* [Backjoon_1,2,3 더하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/1_2_3_plus.py)
 
 ### Dynamic Programming
 * [Backjoon_이동하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/moving_1.py)

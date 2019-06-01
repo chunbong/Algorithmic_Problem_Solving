@@ -2,3 +2,7 @@
 .DS_Store
 
 Brute_Force/tetromino.py
+Brute_Force/next_permutation.py
+Brute_Force/prev_permutation.py
+Brute_Force/all_permutations.py
+Brute_Force/maximize_diff.py

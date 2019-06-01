@@ -37,6 +37,7 @@
 * [Backjoon_일곱 난쟁이](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/seven_dwarfs.py)
 * [Backjoon_날짜 계산](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/date_calculation.py)
 * [Backjoon_1,2,3 더하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/1_2_3_plus.py)
+* [Backjoon_외판원 순회2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/TSP_2.py)
 
 ### Dynamic Programming
 * [Backjoon_이동하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/moving_1.py)

@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/10971
+
 import math
 
 n = int(input())

@@ -43,6 +43,7 @@
 - [Backjoon_1,2,3 더하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/1_2_3_plus.py)
 - [Backjoon\_외판원 순회2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/TSP_2.py)
 - [Backjoon\_연산자 끼워넣기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/operator_insertion.py)
+- [Backjoon\_퇴사](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/resignation.py)
 
 ### Dynamic Programming
 

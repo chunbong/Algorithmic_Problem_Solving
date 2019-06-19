@@ -45,6 +45,7 @@
 - [Backjoon\_연산자 끼워넣기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/operator_insertion.py)
 - [Backjoon\_퇴사](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/resignation.py)
 - [Backjoon_N과 M(2)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_2.py)
+- [Backjoon_N과 M(3)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_3.py)
 
 ### Dynamic Programming
 

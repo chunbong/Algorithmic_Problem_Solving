@@ -18,3 +18,5 @@ Graph/abcde.py
 Graph/second_dfs_and_bfs.py
 Graph/connected_component.py
 Graph/search_maze.py
+Graph/tomato.py
+Graph/hide_and_seek.py

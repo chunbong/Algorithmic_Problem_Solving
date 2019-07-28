@@ -27,3 +27,4 @@ Graph/algospot.py
 Graph/algospot_deque.py
 Graph/breaking_wall_and_moving.py
 Graph/escape.py
+Graph/puzzle.py

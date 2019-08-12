@@ -30,3 +30,4 @@ Graph/escape.py
 Graph/puzzle.py
 
 dynamic_programming/make_it_1.py
+dynamic_programming/2xn_tiling.py

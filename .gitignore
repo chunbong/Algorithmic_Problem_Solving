@@ -32,3 +32,4 @@ Graph/puzzle.py
 dynamic_programming/make_it_1.py
 dynamic_programming/2xn_tiling.py
 dynamic_programming/2xn_tiling_2.py
+dynamic_programming/1,2,3_plus_3.py

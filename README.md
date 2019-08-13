@@ -55,3 +55,4 @@
 ### Dynamic Programming
 
 - [Backjoon\_이동하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/moving_1.py)
+- [Backjoon_1,2,3 더하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/1%2C2%2C3_plus.py)

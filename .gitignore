@@ -51,3 +51,4 @@ dynamic_programming/total_decomposition.py
 dynamic_programming/move.py
 dynamic_programming/coin.py
 dynamic_programming/coin_2.py
+dynamic_programming/ordinary_backpack.py

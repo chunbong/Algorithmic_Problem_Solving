@@ -49,3 +49,4 @@ dynamic_programming/continuous_sum_2.py
 dynamic_programming/sum_of_square_num.py
 dynamic_programming/total_decomposition.py
 dynamic_programming/move.py
+dynamic_programming/coin.py

@@ -52,3 +52,4 @@ dynamic_programming/move.py
 dynamic_programming/coin.py
 dynamic_programming/coin_2.py
 dynamic_programming/ordinary_backpack.py
+dynamic_programming/parenthesis.py

@@ -39,7 +39,7 @@
 ### Brute Force
 
 - [Backjoon\_리모컨](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/remote_control.py)
-- [Backjoon\_카잉 달력](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/cain_calendar.py)
+- [Backjoon\_카잉 달력](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/kaing_calendar.py)
 - [Backjoon\_수 이어쓰기 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/continuous_writing_number.py)
 - [Backjoon\_부등호](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/inequality_sign.py)
 - [Backjoon\_일곱 난쟁이](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/seven_dwarfs.py)

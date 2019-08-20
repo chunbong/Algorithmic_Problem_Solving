@@ -25,6 +25,7 @@
 - [Backjoon\_나이순 정렬하기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/sort_age.py)
 - [Backjoon\_국영수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/kor_eng_math.py)
 - [Backjoon\_카드](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/card.py)
+- [프로그래머스\_K번째수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/K%EB%B2%88%EC%A7%B8%EC%88%98.py)
 
 ### Graph
 
@@ -51,6 +52,7 @@
 - [Backjoon_N과 M(2)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_2.py)
 - [Backjoon_N과 M(3)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_3.py)
 - [Backjoon_N과 M(4)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_4.py)
+- [프로그래머스\_모의고사](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
 
 ### Dynamic Programming
 
@@ -60,3 +62,7 @@
 - [Backjoon\_연속합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/continuous_sum.py)
 - [Backjoon\_점프](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/jump.py)
 - [Backjoon\_기타리스트](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/dynamic_programming/guitarist.py)
+
+### etc.
+
+- [프로그래머스\_완주하지 못한 선수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)

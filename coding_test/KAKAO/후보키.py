@@ -1,56 +1,29 @@
 from itertools import combinations
 
 
-def checkDuplicate(data, length):
-    if len(set(data)) == length:
-        return True  # 중복 없음
-    return False  # 중복 있음
-
-
 def solution(relation):
     answer = 0
+
     tupleLength = len(relation)
     columnLength = len(relation[0])
+
+    # 컬럼 번호로 만들 수 있는 모든 조합을 생성
     columnList = [i for i in range(columnLength)]
-    columnData = {}
-    for column in range(columnLength):
-        for t in range(tupleLength):
-            if column in columnData:
-                columnData[column].append(relation[t][column])
-            else:
-                columnData[column] = [relation[t][column]]
+    columnCombinationList = []
+    for selectedColumn in range(1, columnLength+1):
+        columnCombinationList.extend(combinations(columnList, selectedColumn))
 
     superkey = []
-    for key in range(columnLength):
-        if checkDuplicate(columnData[key], tupleLength):
-            superkey.append([key])
+    for columns in columnCombinationList:
+        temp = [tuple([item[column] for column in columns])
+                for item in relation]
+        if len(set(temp)) == tupleLength:
+            superkey.append(columns)
 
-    checkColumns = 2
-    while checkColumns <= columnLength:
-        columnPairs = combinations(columnList, checkColumns)
-        tempList = []
-        for pair in columnPairs:
-            pairColumnList = []
-            for key in pair:
-                pairColumnList.append(columnData[key])
-
-            totaldataList = []
-            for i in range(tupleLength):
-                dataList = []
-                for j in range(checkColumns):
-                    dataList.append(pairColumnList[j][i])
-                totaldataList.append(tuple(dataList))
-            if checkDuplicate(totaldataList, tupleLength):
-                superkey.append(pair)
-
-        checkColumns += 1
-
-    superkeyLength = len(superkey)
-    check = [True] * superkeyLength
-    for i in range(superkeyLength):
-        currentColumnList = superkey[i]
-        for j in range(i+1, superkeyLength):
-            if set(currentColumnList) - set(superkey[j]) == set():
+    check = [True] * len(superkey)
+    for i in range(len(superkey)):
+        for j in range(i+1, len(superkey)):
+            if set(superkey[i]) - set(superkey[j]) == set():
                 check[j] = False
 
     for value in check:
@@ -58,3 +31,12 @@ def solution(relation):
             answer += 1
 
     return answer
+
+# relation = [
+#     ["100","ryan","music","2"],
+#     ["200","apeach","math","2"],
+#     ["300","tube","computer","3"],
+#     ["400","con","computer","4"],
+#     ["500","muzi","music","3"],
+#     ["600","apeach","music","2"]
+# ]

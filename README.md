@@ -27,6 +27,10 @@
 - [Backjoon\_카드](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/card.py)
 - [프로그래머스\_K번째수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/K%EB%B2%88%EC%A7%B8%EC%88%98.py)
 
+### Searching
+
+- [Backjoon\_수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)
+
 ### Graph
 
 - [Backjoon_DFS와 BFS](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Graph/dfs_and_bfs.py)
@@ -66,3 +70,13 @@
 ### etc.
 
 - [프로그래머스\_완주하지 못한 선수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)
+- [Backjoon\_수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ1920.py)
+
+<br/>
+
+### 코딩 테스트
+
+- [2018 KAKAO BLIND RECRUITMENT\_오픈채팅방](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)
+- [2018 KAKAO BLIND RECRUITMENT\_실패율](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
+- [2018 KAKAO BLIND RECRUITMENT\_후보키](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%ED%9B%84%EB%B3%B4%ED%82%A4.py)
+- [2018 KAKAO BLIND RECRUITMENT\_무지의먹방라이브](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)

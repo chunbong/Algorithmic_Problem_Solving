@@ -80,3 +80,4 @@
 - [2018 KAKAO BLIND RECRUITMENT\_실패율](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EC%8B%A4%ED%8C%A8%EC%9C%A8.py)
 - [2018 KAKAO BLIND RECRUITMENT\_후보키](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%ED%9B%84%EB%B3%B4%ED%82%A4.py)
 - [2018 KAKAO BLIND RECRUITMENT\_무지의먹방라이브](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)
+- [2018 KAKAO BLIND RECRUITMENT\_길찾기게임](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84.py)

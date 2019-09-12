@@ -26,6 +26,7 @@
 - [Backjoon\_국영수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/kor_eng_math.py)
 - [Backjoon\_카드](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/card.py)
 - [프로그래머스\_K번째수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Sorting/K%EB%B2%88%EC%A7%B8%EC%88%98.py)
+- [프로그래머스\_소수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Mathematics/prorammers_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
 
 ### Searching
 

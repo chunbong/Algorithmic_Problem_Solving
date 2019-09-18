@@ -31,6 +31,8 @@
 ### Searching
 
 - [Backjoon\_수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/coding_test/KAKAO/%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)
+- [Backjoon\_예산]()
+- [Backjoon\_나무 자르기]()
 
 ### Graph
 
@@ -58,6 +60,10 @@
 - [Backjoon_N과 M(3)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_3.py)
 - [Backjoon_N과 M(4)](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/n_and_m_4.py)
 - [프로그래머스\_모의고사](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/brute_force/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
+- [Backjoon\_스타트와 링크]()
+- [Backjoon\_종이 조각]()
+- [Backjoon\_부분 수열의 합]()
+- [Backjoon\_집합]()
 
 ### Dynamic Programming
 

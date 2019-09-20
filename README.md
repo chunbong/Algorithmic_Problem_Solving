@@ -66,8 +66,10 @@
 - [Backjoon\_종이 조각](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ14391.py)
 - [Backjoon\_부분 수열의 합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ1182.py)
 - [Backjoon\_집합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
-- [BOJ_2798 - 블랙잭]()
-- [BOJ_2920 - 음계]()
+- [BOJ_2798 - 블랙잭 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ2798_combination.py)
+- [BOJ_2798 - 블랙잭 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ2798_recursion.py)
+- [BOJ_2920 - 음계 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920.py)
+- [BOJ_2920 - 음계 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920_2.py)
 
 ### Dynamic Programming
 

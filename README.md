@@ -66,6 +66,8 @@
 - [Backjoon\_종이 조각](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ14391.py)
 - [Backjoon\_부분 수열의 합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ1182.py)
 - [Backjoon\_집합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
+- [BOJ_2798 - 블랙잭]()
+- [BOJ_2920 - 음계]()
 
 ### Dynamic Programming
 

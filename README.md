@@ -68,8 +68,6 @@
 - [Backjoon\_집합](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
 - [BOJ_2798 - 블랙잭 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ2798_combination.py)
 - [BOJ_2798 - 블랙잭 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/Brute_force/BOJ2798_recursion.py)
-- [BOJ_2920 - 음계 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920.py)
-- [BOJ_2920 - 음계 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920_2.py)
 
 ### Dynamic Programming
 
@@ -84,6 +82,8 @@
 
 - [프로그래머스\_완주하지 못한 선수](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)
 - [Backjoon\_수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ1920.py)
+- [BOJ_2920 - 음계 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920.py)
+- [BOJ_2920 - 음계 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920_2.py)
 
 <br/>
 

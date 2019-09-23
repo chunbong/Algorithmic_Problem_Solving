@@ -84,8 +84,8 @@
 - [Backjoon\_수 찾기](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ1920.py)
 - [BOJ_2920 - 음계 풀이 1](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920.py)
 - [BOJ_2920 - 음계 풀이 2](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ2920_2.py)
-- [BOJ_1966 - 프린터 큐]()
-- [BOJ_5397 - 키로거]()
+- [BOJ_1966 - 프린터 큐](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ_1966.py)
+- [BOJ_5397 - 키로거](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ_5397.py)
 
 <br/>
 

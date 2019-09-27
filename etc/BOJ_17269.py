@@ -25,7 +25,6 @@ while check_name1 or check_name2:
 
 combinedName = list(combinedName)
 
-
 # 알파벳을 숫자로 바꾸기
 stroke = [3, 2, 1, 2, 4, 3, 1, 3, 1, 1, 3, 1, 3, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1]
 for i in range(len(combinedName)):

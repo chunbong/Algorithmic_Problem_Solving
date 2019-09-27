@@ -57,6 +57,8 @@ dynamic_programming/coin_2.py
 dynamic_programming/ordinary_backpack.py
 dynamic_programming/parenthesis.py
 
+etc/BOJ_4195.py
+
 coding_test/CREMA/*
 coding_test/company1/*
 coding_test/company2/*

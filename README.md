@@ -87,6 +87,7 @@
 - [BOJ_1966 - 프린터 큐](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ_1966.py)
 - [BOJ_5397 - 키로거](https://github.com/chunbong/Algorithmic_Problem_Solving/blob/master/etc/BOJ_5397.py)
 - [BOJ_17269 - 이름궁합 테스트]()
+- [BOJ_1718 - 암호]()
 
 <br/>
 

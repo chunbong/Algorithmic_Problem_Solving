@@ -10,43 +10,21 @@ public class BOJ_1476 {
 
     public static int solution() {
 
-        int i = 1;
-        int e = 0;
-        int s = 0;
-        int m = 0;
+        int i = 0;
 
         while(true) {
-            if (i % 15 == 0) {
-                e = 15;
-            } else {
-                e = i % 15;
+            if (i % 15 == E && i % 28 == S && i % 19 == M) {
+                return i+1;
             }
-
-            if (i % 28 == 0) {
-                s = 28;
-            } else {
-                s = i % 28;
-            }
-
-            if (i % 19 == 0) {
-                m = 19;
-            } else {
-                m = i % 19;
-            }
-
-            if (e == E && s == S && m == M) {
-                return i;
-            }
-
             i++;
         }
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        E = sc.nextInt();
-        S = sc.nextInt();
-        M = sc.nextInt();
+        E = sc.nextInt() - 1;
+        S = sc.nextInt() - 1;
+        M = sc.nextInt() - 1;
 
 
         System.out.println(solution());

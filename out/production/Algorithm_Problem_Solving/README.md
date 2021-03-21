@@ -69,6 +69,7 @@
 - [Backjoon\_집합](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
 - [BOJ_2798 - 블랙잭 풀이 1](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_combination.py)
 - [BOJ_2798 - 블랙잭 풀이 2](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_recursion.py)
+- [BOJ_1476 - 날짜 계산(java)](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ_1476.java)
 
 ### Dynamic Programming
 

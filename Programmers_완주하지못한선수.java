@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Programmers_Level1 {
+public class Programmers_완주하지못한선수 {
 
     public static String solution(String[] participant, String[] completion) {
 

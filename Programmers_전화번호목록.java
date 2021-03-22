@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Programmers_Level2 {
+public class Programmers_전화번호목록 {
 
     public static boolean solution(String[] phone_book) {
         boolean answer = true;

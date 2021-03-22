@@ -66,7 +66,7 @@
 - [Backjoon\_스타트와 링크](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ14889.py)
 - [Backjoon\_종이 조각](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ14391.py)
 - [Backjoon\_부분 수열의 합](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ1182.py)
-- [Backjoon\_집합](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
+- [Backjoon\_집합][]
 - [BOJ_2798 - 블랙잭 풀이 1](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_combination.py)
 - [BOJ_2798 - 블랙잭 풀이 2](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_recursion.py)
 - [BOJ_1476 - 날짜 계산(java)](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ_1476.java)
@@ -104,3 +104,5 @@
 <br/>
 
 - [프로그래머스 - 완주하지 못한 선수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_Level1.java))
+
+[]: https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py

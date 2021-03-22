@@ -66,7 +66,7 @@
 - [Backjoon\_스타트와 링크](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ14889.py)
 - [Backjoon\_종이 조각](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ14391.py)
 - [Backjoon\_부분 수열의 합](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ1182.py)
-- [Backjoon\_집합](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py)
+- [Backjoon\_집합][]
 - [BOJ_2798 - 블랙잭 풀이 1](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_combination.py)
 - [BOJ_2798 - 블랙잭 풀이 2](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ2798_recursion.py)
 - [BOJ_1476 - 날짜 계산(java)](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ_1476.java)
@@ -100,3 +100,9 @@
 - [2018 KAKAO BLIND RECRUITMENT\_후보키](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/coding_test/KAKAO/%ED%9B%84%EB%B3%B4%ED%82%A4.py)
 - [2018 KAKAO BLIND RECRUITMENT\_무지의먹방라이브](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/coding_test/KAKAO/%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C.py)
 - [2018 KAKAO BLIND RECRUITMENT\_길찾기게임](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/coding_test/KAKAO/%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84.py)
+
+<br/>
+
+- [프로그래머스 - 완주하지 못한 선수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_Level1.java))
+
+[]: https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py

@@ -103,6 +103,9 @@
 
 <br/>
 
-- [프로그래머스 - 완주하지 못한 선수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_Level1.java))
+- [프로그래머스 - 완주하지 못한 선수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_완주하지못한선수.java))
+- [프로그래머스 - 위장]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_위장.java))
+- [프로그래머스 - 전화번호목록]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_전화번호목록.java))
+- [프로그래머스 - K번째수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_K번째수.java))
 
 []: https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py

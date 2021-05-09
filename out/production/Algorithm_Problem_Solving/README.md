@@ -91,6 +91,8 @@
 - [BOJ_17269 - 이름궁합 테스트]()
 - [BOJ_1718 - 암호]()
 
+- [HackerRank - Sales By Match](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SalesByMatch.java)
+
 <br/>
 
 ### 코딩 테스트
@@ -107,5 +109,3 @@
 - [프로그래머스 - 위장]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_위장.java))
 - [프로그래머스 - 전화번호목록]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_전화번호목록.java))
 - [프로그래머스 - K번째수]((https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Programmers_K번째수.java))
-
-[]: https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/Brute_force/BOJ11723.py

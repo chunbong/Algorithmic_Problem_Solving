@@ -91,7 +91,8 @@
 - [BOJ_17269 - 이름궁합 테스트]()
 - [BOJ_1718 - 암호]()
 
-- [HackerRank - Sales By Match](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SalesByMatch.java)
+- [HackerRank - Sales by Match](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SalesByMatch.java)
+- [HackerRank - Jumping on the Clouds](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_JumpingOnTheClouds.java)
 
 <br/>
 

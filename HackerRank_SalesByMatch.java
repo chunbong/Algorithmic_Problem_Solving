@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Hackerrank_SalesByMatch {
+public class HackerRank_SalesByMatch {
 
     /*
      * Complete the 'sockMerchant' function below.

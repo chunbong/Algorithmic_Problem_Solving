@@ -1,6 +1,8 @@
 .vscode
 .DS_Store
 
+/test
+
 Brute_Force/tetromino.py
 Brute_Force/next_permutation.py
 Brute_Force/prev_permutation.py

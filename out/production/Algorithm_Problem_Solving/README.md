@@ -93,6 +93,7 @@
 
 - [HackerRank - Sales by Match](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SalesByMatch.java)
 - [HackerRank - Jumping on the Clouds](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_JumpingOnTheClouds.java)
+- [HackerRank - Repeated String](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_RepeatedString.java)
 
 <br/>
 

@@ -96,6 +96,7 @@
 - [HackerRank - Repeated String](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_RepeatedString.java)
 - [HackerRank - Minimum Swaps2](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_MinimumSwaps2.java)
 - [HackerRank - New Year Chaos](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_NewYearChaos.java)
+- [HackerRank - Sherlock and Anagrams](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SherlockAndAnagrams.java)
 
 
 <br/>

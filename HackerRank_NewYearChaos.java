@@ -9,11 +9,6 @@ public class HackerRank_NewYearChaos {
 		q.set(i, temp);
 	}
 
-	/*
-     * Complete the 'minimumBribes' function below.
-     *
-     * The function accepts INTEGER_ARRAY q as parameter.
-     */
     public static void minimumBribes(List<Integer> q) {
 
     	int[] counting = new int[q.size()];

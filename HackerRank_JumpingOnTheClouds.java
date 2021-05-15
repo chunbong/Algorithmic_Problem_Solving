@@ -3,13 +3,6 @@ import java.util.List;
 
 public class HackerRank_JumpingOnTheClouds {
 
-    /*
-     * Complete the 'jumpingOnClouds' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts INTEGER_ARRAY c as parameter.
-     */
-
     public static int jumpingOnClouds(List<Integer> c) {
 
         int result = 0;

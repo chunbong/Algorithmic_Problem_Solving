@@ -3,7 +3,6 @@
  */
 public class HackerRank_MinimumSwaps2 {
 
-    // Complete the minimumSwaps function below.
     static int minimumSwaps(int[] arr) {
 
         int temp = -1;

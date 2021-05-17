@@ -99,7 +99,11 @@
 - [HackerRank - Sherlock and Anagrams](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SherlockAndAnagrams.java)
 - [HackerRank - Frequency Queries](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_FrequencyQueries.java)
 - [HackerRank - Comparator](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_Comparator.java)
+<<<<<<< HEAD
 - [HackerRank - Special String Again](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_SpecialStringAgain.java)
+=======
+- [HackerRank - Java Stack](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/HackerRank_JavaStack.java)
+>>>>>>> 651b4f4eca8916103492f728408cd6f77f8ee06e
 
 
 <br/>

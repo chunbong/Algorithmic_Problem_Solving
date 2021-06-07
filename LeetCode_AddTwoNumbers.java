@@ -41,12 +41,28 @@ public class LeetCode_AddTwoNumbers {
 
             sum += carry;
 
+            /*
+                32 Line ~ 42 Line 을 바꾸면
+                int x = (l1Temp != null) ? l1Temp.val : 0;
+                int y = (l2Temp != null) ? l2Temp.val : 0;
+                int sum = carry + x + y;
+                이렇게 바꿀 수 있다
+             */
+
             if (sum >= 10) {
                 carry = sum / 10;
             } else {
                 // 이전에 담긴 carry 값을 초기화하기
                 carry = 0;
             }
+
+            /*
+                52 Line ~ 57 Line 을 바꾸면
+                carry = sum / 10;
+
+                if (sum >= 10) => 이 조건이 필요없다. 10 보다 작으면 당연히 0인걸..
+             */
+
 
             ListNode newListNode = new ListNode(sum % 10);
 
@@ -65,6 +81,14 @@ public class LeetCode_AddTwoNumbers {
                     prev = prev.next;
                 }
             }
+
+            /*
+                69 Line ~ 72 Line 을 바꾸면
+
+                ListNode dummyHead = new ListNode(0);
+                이렇게 더미 값을 하나 넣고 시작하면 if (answer == null) 을 체크해서 첫 번째 노드로 추가해야되는 조건을 줄일 수 있다
+
+             */
 
             sum = 0;
         }

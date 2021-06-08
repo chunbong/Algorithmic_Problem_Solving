@@ -1,5 +1,7 @@
 package DataStructure.Tree;
 
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.List;
 
 public class Tree {
@@ -79,5 +81,26 @@ public class Tree {
             }
         }
         System.out.print(node.getData());
+    }
+
+    /**
+     * 층별 순회
+     * @param node 순회를 시작할 노드
+     */
+    public static <T> void levelOrder(Node<T> node) {
+        Deque<Node<T>> deque = new ArrayDeque<>();
+        deque.offer(node);
+
+        Node<T> currentNode = null;
+        while (!deque.isEmpty()) {
+            currentNode = deque.pollFirst();
+
+            System.out.print(currentNode.getData());
+
+            List<Node<T>> childNode = currentNode.getChildList();
+            for (Node<T> child : childNode) {
+                deque.offer(child);
+            }
+        }
     }
 }

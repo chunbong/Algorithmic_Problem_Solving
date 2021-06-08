@@ -33,5 +33,8 @@ public class Example {
         Tree.postOrder(root);
         System.out.println();
 
+        Tree.levelOrder(root);
+        System.out.println();
+
     }
 }

@@ -1,4 +1,4 @@
-package Graph;
+package DataStructure;
 
 public class DFS {
 

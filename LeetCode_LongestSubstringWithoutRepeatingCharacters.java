@@ -1,32 +1,32 @@
 public class LeetCode_LongestSubstringWithoutRepeatingCharacters {
 
-    public int findSubstringStartingAtIndex(String s, int index) {
+	public static int findSubstringStartingAtIndex(String s, int index) {
 
-        int[] alphabet = new int[127];
-        int alphabetIndex = -1;
+		int[] alphabet = new int[127];
+		int alphabetIndex = -1;
 
-        int length = 0;
+		int length = 0;
 
-        for (int i = index; i < s.length(); i++) {
-            alphabetIndex = s.charAt(i) - 0;
-            if (alphabet[alphabetIndex] == 0) {
-                alphabet[alphabetIndex]++;
-                length++;
-            } else {
-                break;
-            }
-        }
+		for (int i = index; i < s.length(); i++) {
+			alphabetIndex = s.charAt(i) - 0;
+			if (alphabet[alphabetIndex] == 0) {
+				alphabet[alphabetIndex]++;
+				length++;
+			} else {
+				break;
+			}
+		}
 
-        return length;
-    }
+		return length;
+	}
 
-    public int lengthOfLongestSubstring(String s) {
+	public static int lengthOfLongestSubstring(String s) {
 
-        int answer = 0;
+		int answer = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-            answer = Math.max(answer, findSubstringStartingAtIndex(s, i));
-        }
+		for (int i = 0; i < s.length(); i++) {
+			answer = Math.max(answer, findSubstringStartingAtIndex(s, i));
+		}
 
         return answer;
     }
@@ -54,4 +54,8 @@ public class LeetCode_LongestSubstringWithoutRepeatingCharacters {
         }
         return res;
     }
+
+	public static void main(String[] args) {
+		System.out.println(lengthOfLongestSubstring("bbbbb")); // 3
+	}
 }

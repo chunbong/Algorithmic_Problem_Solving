@@ -2,6 +2,7 @@
 .DS_Store
 
 /test
+/out
 
 Brute_Force/tetromino.py
 Brute_Force/next_permutation.py

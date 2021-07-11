@@ -114,6 +114,7 @@
 - [LeetCode - Merge Two Sorted Lists](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/LeetCode_MergeTwoSortedLists.java)
 - [LeetCode - Maximum Subarray](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/LeetCode_MaximumSubarray.java)
 - [LeetCode - Valid Palindrome](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/LeetCode_ValidPalindrome.java)
+- [LeetCode - Remove Duplicates from Sorted Array](https://github.com/ddalam/Algorithm_Problem_Solving/blob/master/LeetCode_RemoveDuplicatesFromSortedArray.java)
 
 <br/>
 

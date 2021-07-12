@@ -1,27 +1,16 @@
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.stream.Collectors;
-
 public class LeetCode_RemoveDuplicatesFromSortedArray {
 
 	public static int removeDuplicates(int[] nums) {
-		int answer = 0;
-
-		int prev = -101;
-
-		LinkedList<Integer> list = (LinkedList<Integer>) Arrays.stream(nums).boxed().collect(Collectors.toList());
+		int indexToFill = 0;
 
 		for (int i = 0; i < nums.length; i++) {
-			if (nums[i] != prev) {
-				answer++;
-				prev = nums[i];
-			} else {
-				list.remove(i);
+			if (nums[i] != nums[indexToFill]) {
+				nums[indexToFill] = nums[i];
+				indexToFill++;
 			}
 		}
 
-		return answer;
+		return indexToFill;
     }
 
 	public static void main(String[] args) {
